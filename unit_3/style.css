@@ -1,0 +1,31 @@
+* margin:0;}
+body{
+	font-family:bentonsans,sans-serif;
+}
+h1{
+	font-family:bentonsans,sans-serif;
+	font-size:224px;
+	line-height:90%;
+}
+h2{
+	font-family:bentonsans,sans-serif;
+	font-size:86px;
+	line-height:80%;
+}
+#slogan{
+	font-style:italic;
+	font-size:60px;
+}
+h3{font-family:bentonsans,sans-serif;
+	font-size:36px;
+}
+ul{
+font-size:60px;
+list-style-type:none;
+font-family:bentonsans,sans-serif;
+}
+
+#contact{
+font-weight:800;
+font-size:36px;
+}
